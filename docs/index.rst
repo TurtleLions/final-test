@@ -12,6 +12,7 @@ Welcome to Final test's documentation!
 
    rst
    md
+   CI-Components-Catalog/README
 
 
 
