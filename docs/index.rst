@@ -10,8 +10,8 @@ Welcome to Final test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   rst
    md
+   rst
    CI-Components-Catalog/README
 
 
