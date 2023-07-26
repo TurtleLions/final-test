@@ -1,0 +1,3 @@
+[submodule "CI-Components-Catalog"]
+	path = CI-Components-Catalog
+	url = https://github.com/ICICLE-ai/CI-Components-Catalog.git
