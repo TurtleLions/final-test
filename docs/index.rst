@@ -13,12 +13,3 @@ Welcome to Final test's documentation!
    md
    rst
    CI-Components-Catalog/README
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
