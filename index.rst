@@ -12,7 +12,5 @@ Welcome to Final test's documentation!
 
    /docs/md
    /docs/rst
-   /submodule/rst2
-   /CI-Components-Catalog/README
-   /d879455/rst2
+   /submodule/rst2.rst
    /test/rst3
