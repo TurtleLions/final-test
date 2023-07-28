@@ -15,3 +15,4 @@ Welcome to Final test's documentation!
    ../submodule/rst2
    ../CI-Components-Catalog/README
    ../d879455/rst2
+   ../test/rst3
