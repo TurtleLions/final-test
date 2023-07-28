@@ -12,4 +12,4 @@ Welcome to Final test's documentation!
 
    md
    rst
-   CI-Components-Catalog/README
+.. include:: ../CI-Components-Catalog/README
