@@ -10,15 +10,6 @@ Welcome to Final test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   rst
    md
-   CI-Components-Catalog/README
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   rst
+   ../CI-Components-Catalog/README
