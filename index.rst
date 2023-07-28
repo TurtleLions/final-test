@@ -10,9 +10,9 @@ Welcome to Final test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   md
-   rst
-   ../submodule/rst2
-   ../CI-Components-Catalog/README
-   ../d879455/rst2
-   ../test/rst3
+   /docs/md
+   /docs/rst
+   /submodule/rst2
+   /CI-Components-Catalog/README
+   /d879455/rst2
+   /test/rst3
