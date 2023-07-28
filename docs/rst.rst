@@ -7,7 +7,7 @@ their respective authenticator clients. The user can call
 used in code to authenticate to a Tapis tenant using Tapis federated
 authentication.
 
-installation
+Installation
 ------------
 
 Pypi: https://pypi.org/project/TapisFederatedAuthClientAPI/0.0.1/
