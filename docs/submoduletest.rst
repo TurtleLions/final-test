@@ -1,0 +1,1 @@
+.. include:: ../submodule/rst2.rst
