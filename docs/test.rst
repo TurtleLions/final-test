@@ -1,0 +1,1 @@
+.. include:: ../Markdown-Template-Creation/rst4.rst

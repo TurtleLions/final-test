@@ -4,3 +4,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/DavidL0914/submodule.git
+[submodule "Markdown-Template-Creation"]
+	path = Markdown-Template-Creation
+	url = https://github.com/TurtleLions/Markdown-Template-Creation.git
