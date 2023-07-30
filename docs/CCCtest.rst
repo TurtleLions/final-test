@@ -1,1 +1,1 @@
-.. include:: ../CI-Components-Catalog/README.md
+.. include:: ../CI-Components-Catalog/CHANGELOG.md
