@@ -10,8 +10,7 @@ Welcome to Final test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   ./docs/md
-   ./docs/rst
-   ./docs/submoduletest.rst
-   ./docs/CCCtest.rst
-   ./docs/test.rst
+   /docs/md
+   /docs/rst
+   /docs/1
+   /docs/2

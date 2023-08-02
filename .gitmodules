@@ -7,3 +7,6 @@
 [submodule "Markdown-Template-Creation"]
 	path = Markdown-Template-Creation
 	url = https://github.com/TurtleLions/Markdown-Template-Creation.git
+[submodule "markdown1"]
+	path = markdown1
+	url = https://github.com/DavidL0914/markdown1.git
