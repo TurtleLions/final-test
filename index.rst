@@ -14,3 +14,4 @@ Welcome to Final test's documentation!
    /docs/rst
    /docs/1
    /docs/2
+   /docs/CCCtest
