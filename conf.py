@@ -46,5 +46,5 @@ html_theme = 'sphinx_rtd_theme'
 from urllib.request import urlopen
 from shutil import copyfileobj
 
-with urlopen('https://raw.githubusercontent.com/DavidL0914/markdown1/main/test.md') as in_stream, open('submoduledocs/submodtest.md', 'wb') as out_file:
+with urlopen('https://raw.githubusercontent.com/DavidL0914/markdown1/main/test.md') as in_stream, open('submoduledocs/submodtest.md', 'w') as out_file:
     copyfileobj(in_stream, out_file)
