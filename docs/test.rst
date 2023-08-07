@@ -1,1 +1,4 @@
+submodtest
+================
+
 .. include:: ../submoduledocs/submodtest

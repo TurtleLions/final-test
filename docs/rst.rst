@@ -1,4 +1,4 @@
-Federated Tenant Auth API
+LOCAL RST TEST
 =========================
 
 This is a simple API to access a json file mapping Tapis tenants to
