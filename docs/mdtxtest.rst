@@ -1,4 +1,4 @@
 outtest
 =========
 
-..include :: ../Markdown-Template-Creation/README.md
+.. include:: ../Markdown-Template-Creation/README.md
