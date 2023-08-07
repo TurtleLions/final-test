@@ -14,4 +14,4 @@ Welcome to Final test's documentation!
    /docs/submoduletest
    /docs/test
    /docs/mdtxtest
-   docs/rst
+   /docs/rst

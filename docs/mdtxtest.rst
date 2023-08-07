@@ -1,1 +1,4 @@
-..include :: ..\Markdown-Template-Creation\README.md
+outtest
+=========
+
+..include :: ../Markdown-Template-Creation/README.md
