@@ -1,1 +1,1 @@
-.. include:: ../submodule/rst2.rst
+.. include:: ../submodule/rst2
