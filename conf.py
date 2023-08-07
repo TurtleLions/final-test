@@ -46,5 +46,5 @@ from urllib.request import urlretrieve
 
 urlretrieve (
     "https://raw.githubusercontent.com/DavidL0914/markdown1/main/test.md",
-    "submoduledocs/submodtest.md"
+    "docs/submodtest.md"
 )
