@@ -23,7 +23,7 @@ extensions = [
     'sphinx_rtd_theme'
 ]
 
-html_show_sourcelink = False
+html_show_sphinx = False
 
 source_suffix = {
     '.rst': 'restructuredtext',
