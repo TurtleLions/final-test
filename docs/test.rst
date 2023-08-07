@@ -1,1 +1,1 @@
-.. include:: ../markdown1/test
+.. include:: ../markdown1/test.md

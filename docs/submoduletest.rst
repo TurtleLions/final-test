@@ -1,1 +1,1 @@
-.. include:: ../submodule/rst2
+.. include:: ../markdown1/test2.rst
