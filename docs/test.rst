@@ -1,1 +1,1 @@
-.. include:: ../markdown1/test.md
+.. include:: ../submoduledocs/submodtest

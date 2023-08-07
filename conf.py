@@ -41,3 +41,10 @@ templates_path = ['templates']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
+
+from urllib.request import urlretrieve
+
+urlretrieve (
+    "https://raw.githubusercontent.com/DavidL0914/markdown1/main/test.md",
+    "submoduledocs/submodtest.md"
+)
