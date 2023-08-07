@@ -23,6 +23,11 @@ extensions = [
     'sphinx_rtd_theme'
 ]
 
+html_context = {
+  'display_github': True,
+  'github_url': "https://github.com/TurtleLions/RTD_Markdown_Template/"
+}
+
 source_suffix = {
     '.rst': 'restructuredtext',
     '.txt': 'markdown',
