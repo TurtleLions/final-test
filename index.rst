@@ -12,6 +12,6 @@ Welcome to Final test's documentation!
 
    /docs/CCCtest
    /docs/submoduletest
-   /docs/test
+   /docs/submodtest
    /docs/mdtxtest
    /docs/rst

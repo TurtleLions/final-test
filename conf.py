@@ -44,7 +44,9 @@ html_theme = 'sphinx_rtd_theme'
 
 from urllib.request import urlretrieve
 
+print("start")
 urlretrieve (
     "https://raw.githubusercontent.com/DavidL0914/markdown1/main/test.md",
     "docs/submodtest.md"
 )
+print("done")
