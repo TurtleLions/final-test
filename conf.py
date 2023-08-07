@@ -42,9 +42,9 @@ templates_path = ['templates']
 
 html_theme = 'sphinx_rtd_theme'
 
+from urllib.request import urlretrieve
 
-from urllib.request import urlopen
-from shutil import copyfileobj
-
-with urlopen('https://raw.githubusercontent.com/DavidL0914/markdown1/main/test.md') as in_stream, open('submoduledocs/submodtest.md', 'w') as out_file:
-    copyfileobj(in_stream, out_file)
+urlretrieve (
+    "https://raw.githubusercontent.com/DavidL0914/markdown1/main/test.md",
+    "submoduledocs/submodtest.md"
+)
